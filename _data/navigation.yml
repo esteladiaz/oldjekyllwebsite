@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: Projects
+  url: projects
+
+- title: Resume
+  url: resume
+
+- about: About
+  url: about
